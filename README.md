@@ -30,4 +30,4 @@ A lightweight, clean, and automated Android application built with Kotlin that a
 2. **Enable WOL on PC:** Ensure your computer has Wake-on-LAN enabled in both the BIOS/UEFI settings and your Network Adapter properties.
 3. **Connect to Wi-Fi:** Connect your Android device to the same local network (Wi-Fi) as your PC.
 4. **Run the App:** Build, run, and enjoy one-click computer startup!
-5. **Voice Assistant Support:** You can also use this with your phone's voice assistant. For example, just say: *"Hey Google, open My Computer,"* and your computer will automatically turn on!
+5. **Voice Assistant Support:** You can also use this with your phone's voice assistant. For example, just say: *"Hey Google, open My Computer app"* and your computer will automatically turn on!
